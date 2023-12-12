@@ -18,7 +18,7 @@ function install_programs(programs, os):
     elif os == "macOS":
         for program in programs:
             install_program_on_macos(program)
-    elif os == "Linux":
+    elif os == "Linux":I
         for program in programs:
             install_program_on_linux(program)
     else:

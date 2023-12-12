@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os
 
 def run_terminal_command(command):

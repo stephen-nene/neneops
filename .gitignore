@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+
+# Virtual Environment
+neneops/
+neneops/
+neneops/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Log Files
+*.log
+*.log.*
+logs/
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Thumbnails
+._*
+
+
+# Cache files
+.cache/
+.cacheddata/
+
+# Compiled bytecode
+*.pyc
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# .env files
+.env
